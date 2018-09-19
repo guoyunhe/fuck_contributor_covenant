@@ -1,7 +1,7 @@
-baseURL = "https://www.contributor-covenant.org"
+baseURL = "https://www.fuck-contributor-covenant.org"
 # canonifyURLs = true
 languageCode = "en-us"
-title = "Contributor Covenant"
+title = "Fuck Contributor Covenant"
 disableKinds = ["RSS"]
 
 DefaultContentLanguage = "en"
