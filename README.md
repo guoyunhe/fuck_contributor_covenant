@@ -1,27 +1,18 @@
-Contributor Covenant
+Fuck Contributor Covenant
 ====================
 
-The most popular code of conduct for open source projects with over 40,000 adoptions.
+Help inneed people, not the code.
 
 ## Project Home Page
 
-For an overview and usage instructions, please visit [contributor-covenant.org](http://contributor-covenant.org/)
+For an overview and usage instructions, please visit [fuck-contributor-covenant.org](http://fuck-contributor-covenant.org/)
 
 ## Contributing
 
 Please feel free to submit pull requests or open issues to improve the language
-of this document or to provide additional [translations](http://contributor-covenant.org/version/1/3/0/i18n/).
-
-You should also check the [issues](https://github.com/ContributorCovenant/contributor_covenant/issues)
-for the latest discussions involving the current and future versions of Contributor Covenant.
+of this document or to provide additional [translations](http://fuck-contributor-covenant.org/version/1/3/0/i18n/).
 
 To build the website locally, first install [Hugo](https://gohugo.io) using your package manager of choice.
-For example, using [Homebrew](https://brew.sh) on macOS:
-
-```
-brew install hugo
-```
-
 Then, from the repo root directory, start the development server:
 
 ```
@@ -50,7 +41,7 @@ If you are interested in doing a translation, please follow these steps:
 * Add a new row to the [adopters.csv](static/adopters.csv), with the project name in the first column, and the project URL in the second column.
 * Open a pull request.
 
-## Examples of Projects Using the Contributor Covenant
+## Examples of Projects that don't give a Fuck to Contributor Covenant
 
 This code of conduct has been adopted by [more than 40,000 open source projects](https://github.com/search?l=&q=%22This+Code+of+Conduct+is+adapted+from+the+%5BContributor+Covenant%5D%22+path%3A%22%2F%22+fork%3Afalse&ref=advsearch&type=Code&utf8=✓).
-For a partial list, see [our adopters page](https://www.contributor-covenant.org/adopters.html).
+For a partial list, see [our adopters page](https://www.fuck-contributor-covenant.org/adopters.html).
